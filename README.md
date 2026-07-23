@@ -25,13 +25,21 @@
 ![Followers](https://img.shields.io/github/followers/ankitjhinkwan?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
 ![Stars](https://img.shields.io/github/stars/ankitjhinkwan?style=for-the-badge&color=6d28d9&labelColor=1a1a2e)
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="55%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ankitjhinkwan&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9&mode=daily" width="60%"/>
+
 </div>
 
 <br/>
 
 ## ⟡ About Me
 
-<img align="right" width="40%" src="https://raw.githubusercontent.com/ankitjhinkwan/ankitjhinkwan/main/assets/wave.gif" />
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/212750996-938a439a-33b3-4212-8a71-e0da1a1a2c8c.gif" />
 
 ```txt
 class AnkitJinkwan:
@@ -59,6 +67,56 @@ I'm an engineering-minded AI/ML student who treats machine learning as a **softw
 ## ⟡ Tech Stack
 
 <div align="center">
+
+<svg width="260" height="260" viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="130" cy="130" r="34" fill="#2E1065" stroke="#A78BFA" stroke-width="2"/>
+  <text x="130" y="135" font-family="Fira Code, monospace" font-size="13" fill="#C9B6FF" text-anchor="middle">AI/ML</text>
+
+  <circle cx="130" cy="130" r="70" fill="none" stroke="#4C1D95" stroke-width="1" stroke-dasharray="4 4" opacity="0.5"/>
+  <circle cx="130" cy="130" r="105" fill="none" stroke="#4C1D95" stroke-width="1" stroke-dasharray="4 4" opacity="0.35"/>
+
+  <g>
+    <circle r="16" fill="#1a1a2e" stroke="#8B5CF6" stroke-width="2">
+      <animateMotion dur="9s" repeatCount="indefinite" path="M 130,60 A 70,70 0 1,1 129.9,60"/>
+    </circle>
+    <text font-family="Fira Code, monospace" font-size="10" fill="#EDE9FE" text-anchor="middle" dy="4">
+      <animateMotion dur="9s" repeatCount="indefinite" path="M 130,60 A 70,70 0 1,1 129.9,60"/>
+      Py
+    </text>
+  </g>
+
+  <g>
+    <circle r="16" fill="#1a1a2e" stroke="#7C3AED" stroke-width="2">
+      <animateMotion dur="13s" repeatCount="indefinite" path="M 130,25 A 105,105 0 1,0 129.9,25"/>
+    </circle>
+    <text font-family="Fira Code, monospace" font-size="9" fill="#EDE9FE" text-anchor="middle" dy="4">
+      <animateMotion dur="13s" repeatCount="indefinite" path="M 130,25 A 105,105 0 1,0 129.9,25"/>
+      TF
+    </text>
+  </g>
+
+  <g>
+    <circle r="16" fill="#1a1a2e" stroke="#6D28D9" stroke-width="2">
+      <animateMotion dur="16s" repeatCount="indefinite" path="M 130,25 A 105,105 0 1,1 129.9,25"/>
+    </circle>
+    <text font-family="Fira Code, monospace" font-size="9" fill="#EDE9FE" text-anchor="middle" dy="4">
+      <animateMotion dur="16s" repeatCount="indefinite" path="M 130,25 A 105,105 0 1,1 129.9,25"/>
+      JS
+    </text>
+  </g>
+
+  <g>
+    <circle r="16" fill="#1a1a2e" stroke="#A78BFA" stroke-width="2">
+      <animateMotion dur="11s" repeatCount="indefinite" path="M 130,60 A 70,70 0 1,0 129.9,60"/>
+    </circle>
+    <text font-family="Fira Code, monospace" font-size="9" fill="#EDE9FE" text-anchor="middle" dy="4">
+      <animateMotion dur="11s" repeatCount="indefinite" path="M 130,60 A 70,70 0 1,0 129.9,60"/>
+      SQL
+    </text>
+  </g>
+</svg>
+
+<br/>
 
 **Languages**
 
@@ -322,4 +380,3 @@ Built a **Daily Reflection Tree** application — a React + Vite web app combini
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-h
